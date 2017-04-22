@@ -1,4 +1,7 @@
-# test coverage for  [yosay (v2.0.0)](http://yeoman.io)  [![npm package](https://img.shields.io/npm/v/npmtest-yosay.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yosay) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yosay.svg)](https://travis-ci.org/npmtest/node-npmtest-yosay)
+# npmtest-yosay
+
+#### basic test coverage for  [yosay (v2.0.0)](http://yeoman.io)  [![npm package](https://img.shields.io/npm/v/npmtest-yosay.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yosay) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yosay.svg)](https://travis-ci.org/npmtest/node-npmtest-yosay)
+
 #### Tell Yeoman what to say
 
 [![NPM](https://nodei.co/npm/yosay.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/yosay)
